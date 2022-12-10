@@ -1,0 +1,77 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+p {
+    padding: 10px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.header {
+    float: left;
+    height: 75px;
+    width: 1000px;
+    background: #FF6633;
+}
+
+.navigation {
+    float: left;
+    height: 40px;
+    width: 1000px;
+    background: #FFCC33;
+}
+
+.content {
+    float: left;
+    background: #FFFFFF;
+    width: 850px;
+}
+
+.leftcolumn {
+    background: #33CCFF;
+    width: 150px;
+    float: left;
+}
+
+.footer {
+    height: 40px;
+    width: 1000px;
+    background: #33FF66;
+    clear: both;
+}
+
+<style>
+body {
+  background-image: url(Neos%20Caliber.jpg)
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.875em;
+}
+
+p {
+  font-size: 100%;
+}
+<style>
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+</style>
